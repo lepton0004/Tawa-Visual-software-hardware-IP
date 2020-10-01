@@ -1,13 +1,13 @@
 
  Tembo license
  ~~~~~~~~~~~~~~
- 
+- This software is Copyright (C) Year of release Tembo.
 - This is free software.
 - This software holder is not liable or respomsible for any thing this software does or does not.
 - You use this software at your own risk.
 - You can distribute this software at your own risk.
 - You can modify this software.
-- Redistribution of this software or a derivative of this sofrtware must attribute thw Copyright holder name above, in a manner vissible to the end user. 
+- Redistribution of this software or a derivative of this sofrtware must attribute the Copyright holder name above, in a manner vissible to the end user. 
  
  License
 ~~~~~~~~~~~~~~~~
